@@ -10,14 +10,14 @@ test/bower_components
 package
 .eslintcache
 
-# IDEs
+
 .idea
 .vscode
 .sublime-project
 
 *.bak
 
-# VIM
+
 *.swp
 *.swo
 
