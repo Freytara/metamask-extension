@@ -1,8 +1,6 @@
 # things that *are* used, that depcheck is wrong about
 ignores:
-  #
-  # webapp deps
-  #
+ 
 
   - '@babel/runtime'
   - '@fortawesome/fontawesome-free'
